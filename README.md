@@ -20,7 +20,7 @@
 
 | 分類           | 技術 / 工具                                                   |
 |----------------|---------------------------------------------------------------|
-| 📦 前端         | Nuxt3 + Vue 3（單頁式應用 SPA）、Bootstrap、Vue Router、Axios |
+| 📦 前端         | Nuxt3 + Vue 3（單頁式應用 SPA） |
 | ⚙️ 後端         | Spring Boot（Java 17）、Spring Data JPA、RESTful API         |
 | 🧮 資料庫       | MySQL（儲存結構化資料）、Elasticsearch（全文檢索）            |
 | 🔄 資料前處理   | Python（清洗與轉換，批次寫入 MySQL 與 Elasticsearch）         |
